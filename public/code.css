@@ -1,0 +1,34 @@
+
+body{
+    background-color: rgb(57, 55, 55);
+}
+
+
+.heading{
+    color: red;
+    font-weight: bolder;
+    font-style: italic;
+    text-shadow: 6px 3px 10px white;
+}
+
+.forms{
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+.forms label{
+    font-size: 25px;
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.table th{
+    font-size: 20px;
+}
+
+.txt{
+    position: relative;
+    top: 40px;
+    font-size: 25px;
+    font-weight: 600;
+}
